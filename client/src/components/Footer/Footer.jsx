@@ -41,7 +41,7 @@ const Footer = () => {
                 </ul>
                 <div className="my-4 flex items-center gap-6">
                     <a
-                        href="https://github.com/3ddelano/todo-list-mern"
+                        href="https://github.com/Sagar-Arora-eng/Todo-List"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
                         className="text-gray-400 hover:text-gray-300"
@@ -61,7 +61,7 @@ const Footer = () => {
                         </svg>
                     </a>
                     <a
-                        href="https://discord.gg/FZY9TqW"
+                        href="https://discord.com/"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
                         className="text-gray-400 hover:text-gray-300"
@@ -77,7 +77,7 @@ const Footer = () => {
                         </svg>
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/delano-lourenco-a9022a190/"
+                        href="https://www.linkedin.com/in/sagar-arora-17310a208/"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
                         className="text-gray-400 hover:text-gray-300"
@@ -98,7 +98,7 @@ const Footer = () => {
                     <p className="text-base text-zinc-400 xl:text-center">
                         &copy;{" "}
                         <a
-                            href="https://delano-lourenco.web.app"
+                            href="https://github.com/Sagar-Arora-eng/Todo-List"
                             target="_blank"
                             className="border-b-2 border-zinc-500"
                         >
